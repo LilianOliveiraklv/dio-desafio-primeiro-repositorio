@@ -2,5 +2,5 @@
 Repositório criado para o Desafio de Projetos.
 
 ## Links úteis
-[Sintaxe Basuca Markdiwb] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe_Basuca_Markdiwb] (https://www.markdownguide.org/basic-syntax/)
 
